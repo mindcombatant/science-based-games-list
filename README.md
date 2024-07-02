@@ -55,7 +55,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * [kerbalspaceprogram.com](https://kerbalspaceprogram.com)
 * Newtonian physics, space program
 * strategy
-* GNU/Linux ($), MacOS ($), Windows ($)
+* GNU/Linux (\$), MacOS (\$), Windows (\$)
 
 #### Orbiter 2016
 
@@ -89,7 +89,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * store.steampowered.com/app/341640/Relativity_Wars__A_Science_Space_RTS](https://store.steampowered.com/app/341640/Relativity_Wars__A_Science_Space_RTS/)
 * space arcade / RTS
 * some parts of relativity
-* Android ($), iOS ($), MacOS ($), Windows ($)
+* Android (\$), iOS (\$), MacOS (\$), Windows (\$)
 
 #### Quantum Game with Photons
 
@@ -123,7 +123,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * [testtubegames.com/shocktopus.html](http://testtubegames.com/shocktopus.html)
 * electromagnetism
 * platformer
-* web (free of charge), GNU/Linux ($) , MacOS ($), Windows ($)
+* web (free of charge), GNU/Linux (\$) , MacOS (\$), Windows (\$)
 
 #### High Frontier
 
@@ -138,7 +138,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * [www.osmos-game.com](http://www.osmos-game.com/)
 * gravity and conservation of momentum
 * puzzle / action / strategy
-* GNU/Linux ($), MacOS ($), Windows ($), Android ($), iOS ($)
+* GNU/Linux (\$), MacOS (\$), Windows (\$), Android (\$), iOS (\$)
 
 #### HelloQuantum
 
@@ -382,7 +382,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * [http://www.spacechemthegame.com](http://www.spacechemthegame.com/)
 * algorithms
 * puzzle
-* Android ($), GNU/Linux ($), Windows ($)
+* Android (\$), GNU/Linux (\$), Windows (\$)
 
 #### Code Master - The Ultimate Coding Board Game
 * [http://www.thinkfun.com/products/code-master/](http://www.thinkfun.com/products/code-master/)
@@ -402,7 +402,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * programming
 * multiple very constrained CPUs + communication
 * SpaceChem-style optimization
-* GNU/Linux ($), MacOS ($), Windows ($)
+* GNU/Linux (\$), MacOS (\$), Windows (\$)
 
 #### Shenzhen I/O
 
@@ -411,7 +411,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * puzzle
 * author of other games: http://www.zachtronics.com/ including SpaceChem
 * see also: [Lessons Learned from Shenzhen I/O](https://probablydance.com/2016/11/07/lessons-learned-from-shenzhen-io/)
-* GNU/Linux ($), MacOS ($), Windows ($)
+* GNU/Linux (\$), MacOS (\$), Windows (\$)
 
 #### Opus Magnum
 
@@ -419,7 +419,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * programming
 * puzzle
 * author of other games: http://www.zachtronics.com/ including SpaceChem, TIS 100, Shenzhen I/O
-* GNU/Linux ($), MacOS ($), Windows ($)
+* GNU/Linux (\$), MacOS (\$), Windows (\$)
 
 #### Robozzle
 
@@ -437,7 +437,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * puzzle
 * automation and optimization
 * from the designers of Little Inferno and World of Goo
-* GNU/Linux ($), MacOS ($), Windows ($), Android ($), iOS ($), Wii U ($)
+* GNU/Linux (\$), MacOS (\$), Windows (\$), Android (\$), iOS (\$), Wii U (\$)
 
 #### 7 Billion Humans
 
@@ -445,7 +445,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * robotics/turtle programming
 * puzzle
 * pseudo-sequel to Human Resource Machine (same developers, slightly different gameplay)
-* GNU/Linux ($), MacOS ($), Windows ($), Android ($), iOS ($), Nintendo Switch ($)
+* GNU/Linux (\$), MacOS (\$), Windows (\$), Android (\$), iOS (\$), Nintendo Switch (\$)
 
 #### Hour of Code
 
@@ -487,7 +487,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * simulation building
 * collect resources and design factories
 * automate all aspects of factory production
-* Windows ($), Mac ($), GNU/Linux ($)
+* Windows (\$), Mac (\$), GNU/Linux (\$)
 
 #### Infinifactory
 
@@ -495,7 +495,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * algorithms, optimization
 * puzzle
 * Like a cross between SpaceChem and Factorio
-* Windows ($), Mac ($), GNU/Linux ($)
+* Windows (\$), Mac (\$), GNU/Linux (\$)
 
 #### Google Turing Doodle
 
@@ -543,7 +543,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
   * [Ludum Dare - an almost success story](http://www.ludumdare.com/compo/2013/08/02/an-almost-success-story/)
 * arithmetic
 * puzzle/maze
-* GNU/Linux ($), MacOS ($), Windows ($)
+* GNU/Linux (\$), MacOS (\$), Windows (\$)
 
 #### HyperRogue
 
@@ -566,7 +566,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * [www.mathbreakers.com](https://www.mathbreakers.com/)
 * arithmetics
 * 3d adventure game
-* GNU/Linux ($), MacOS ($), Windows ($) with free of charge demo
+* GNU/Linux (\$), MacOS (\$), Windows (\$) with free of charge demo
 
 #### Euclid the Game
 
@@ -584,7 +584,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * [Engare](http://www.engare.design/) (and [Engare on Steam](http://store.steampowered.com/app/415170/Engare/))
 * geometry, curves
 * motion puzzle
-* MacOS ($), Windows ($)
+* MacOS (\$), Windows (\$)
 
 #### Refractions
 
@@ -613,7 +613,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 
 * [dragonbox algebra](https://dragonbox.com/products/algebra-12)
 * Entertaining puzzle game stealthily teaches you to solve algebraic equations
-* Android ($), iOS ($)
+* Android (\$), iOS (\$)
 
 ### Sociology and economy
 
@@ -622,14 +622,14 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * [www.peacemakergame.com](http://www.peacemakergame.com/)
 * Israel-Palestine peace process (unfortunately outdated and too optimistic)
 * strategy
-* Android ($), iOS ($), Kindle Fire ($), MacOS ($), Windows ($)
+* Android (\$), iOS (\$), Kindle Fire (\$), MacOS (\$), Windows (\$)
 
 #### Democracy 3
 
 * [www.positech.co.uk/democracy3](http://www.positech.co.uk/democracy3/)
 * democracy, ruling country
 * turn-based economical strategy
-* GNU/Linux ($), MacOS ($), Windows ($)
+* GNU/Linux (\$), MacOS (\$), Windows (\$)
 
 #### Parable of the Polygons
 
